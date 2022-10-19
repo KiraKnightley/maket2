@@ -53,11 +53,15 @@ body{
     cursor: pointer;
 }
 
-.menu-header .menu-icon:first-child{
+.menu-icon:hover{
+    opacity: 0.6;
+}
+
+.burger-menu__header .menu-icon:first-child{
     margin-right: 16.73px;
 }
 
-.menu-header .menu-icon:last-child{
+.burger-menu__header .menu-icon:last-child{
     margin-left: auto;
 }
 
